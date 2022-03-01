@@ -1,5 +1,7 @@
 <template>
-  <Tutorial />
+  <div>
+  <button> Hi </button>
+  </div>
 </template>
 
 <script>
