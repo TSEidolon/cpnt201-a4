@@ -34,6 +34,8 @@ export default {
     '@nuxtjs/tailwindcss',
     // https://tailwindcss.com/docs/guides/nuxtjs
     '@nuxt/postcss8',
+    // https://image.nuxtjs.org/getting-started/installation
+    '@nuxt/image',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
